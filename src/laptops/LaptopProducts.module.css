@@ -1,0 +1,12 @@
+.div h2 {
+    
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.laptopList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
